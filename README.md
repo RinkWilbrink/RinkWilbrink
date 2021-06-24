@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RinkWilbrink)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RinkWilbrink&theme=dark&hide_border=true&stroke=00A4DD)](https://git.io/streak-stats)
+
+[![RinkWilbrink's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinkWilbrink)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **RinkWilbrink/RinkWilbrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
