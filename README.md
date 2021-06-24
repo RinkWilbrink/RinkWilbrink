@@ -4,6 +4,9 @@
 
 [![RinkWilbrink's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinkWilbrink&theme=dark&hide_border=true&stroke=00A4DD)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinkWilbrink&theme=dark&hide_border=true&stroke=00A4DD)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **RinkWilbrink/RinkWilbrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
