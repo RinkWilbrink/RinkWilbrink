@@ -1,10 +1,10 @@
 ### Hi there, I'm Rink Wilbrink and this is my Github Page!
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RinkWilbrink&theme=dark&hide_border=true&stroke=00A4DD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RinkWilbrink&theme=onedark&hide_border=true&stroke=00A4DD)](https://git.io/streak-stats)
 
-[![RinkWilbrink's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinkWilbrink&theme=dark&hide_border=true&stroke=00A4DD)](https://github.com/anuraghazra/github-readme-stats)
+[![RinkWilbrink's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinkWilbrink&theme=onedark&hide_border=true&stroke=00A4DD)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinkWilbrink&theme=dark&hide_border=true&stroke=00A4DD)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinkWilbrink&theme=onedark&hide_border=true&stroke=00A4DD)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
