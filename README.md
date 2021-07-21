@@ -2,6 +2,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RinkWilbrink&theme=material-palenight&background=30,e96443,904e95&hide_border=true&stroke=00A4DD)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github.com/RinkWilbrink?tab=repositories?user=RinkWilbrink&theme=material-palenight&background=30,e96443,904e95&hide_border=true&stroke=00A4DD)](https://git.io/streak-stats)
+
 <a href="https://github.com/RinkWilbrink?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RinkWilbrink&theme=material-palenight&bg_color=0,e96443,904e95&hide_border=true&stroke=00A4DD)](www.google.com" />
 </a>
