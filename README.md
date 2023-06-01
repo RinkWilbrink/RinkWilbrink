@@ -3,7 +3,7 @@
 
 - Experienced in C++ & C#
 - Specialising in Vulkan Rendering API.
-- Additional Experience with DX12 and PlayStation Graphics Development
+- Additional Experience with PlayStation Graphics Development
 
 ---
 
